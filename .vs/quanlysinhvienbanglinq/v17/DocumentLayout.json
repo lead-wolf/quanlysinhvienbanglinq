@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HUTECH_UNIVERSITY\\CMP170-L\u1EADp-tr\u00ECnh-tr\u00EAn-m\u00F4i-tr\u01B0\u1EDDng-windows\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8618F-D918-45DC-8861-A48973F73360}|quanlysinhvienbanglinq\\quanlysinhvienbanglinq.csproj|d:\\hutech_university\\cmp170-l\u1EADp-tr\u00ECnh-tr\u00EAn-m\u00F4i-tr\u01B0\u1EDDng-windows\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8618F-D918-45DC-8861-A48973F73360}|quanlysinhvienbanglinq\\quanlysinhvienbanglinq.csproj|solutionrelative:quanlysinhvienbanglinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8618F-D918-45DC-8861-A48973F73360}|quanlysinhvienbanglinq\\quanlysinhvienbanglinq.csproj|d:\\hutech_university\\cmp170-l\u1EADp-tr\u00ECnh-tr\u00EAn-m\u00F4i-tr\u01B0\u1EDDng-windows\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8618F-D918-45DC-8861-A48973F73360}|quanlysinhvienbanglinq\\quanlysinhvienbanglinq.csproj|solutionrelative:quanlysinhvienbanglinq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HUTECH_UNIVERSITY\\CMP170-L\u1EADp-tr\u00ECnh-tr\u00EAn-m\u00F4i-tr\u01B0\u1EDDng-windows\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\Student.cs",
+              "RelativeDocumentMoniker": "quanlysinhvienbanglinq\\Student.cs",
+              "ToolTip": "D:\\HUTECH_UNIVERSITY\\CMP170-L\u1EADp-tr\u00ECnh-tr\u00EAn-m\u00F4i-tr\u01B0\u1EDDng-windows\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\Student.cs",
+              "RelativeToolTip": "quanlysinhvienbanglinq\\Student.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:59:06.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HUTECH_UNIVERSITY\\CMP170-L\u1EADp-tr\u00ECnh-tr\u00EAn-m\u00F4i-tr\u01B0\u1EDDng-windows\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\Program.cs",
+              "RelativeDocumentMoniker": "quanlysinhvienbanglinq\\Program.cs",
+              "ToolTip": "D:\\HUTECH_UNIVERSITY\\CMP170-L\u1EADp-tr\u00ECnh-tr\u00EAn-m\u00F4i-tr\u01B0\u1EDDng-windows\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\quanlysinhvienbanglinq\\Program.cs",
+              "RelativeToolTip": "quanlysinhvienbanglinq\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:58:18.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

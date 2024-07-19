@@ -1,0 +1,7 @@
+D:\HUTECH_UNIVERSITY\CMP170-Lập-trình-trên-môi-trường-windows\quanlysinhvienbanglinq\quanlysinhvienbanglinq\quanlysinhvienbanglinq\bin\Debug\quanlysinhvienbanglinq.exe.config
+D:\HUTECH_UNIVERSITY\CMP170-Lập-trình-trên-môi-trường-windows\quanlysinhvienbanglinq\quanlysinhvienbanglinq\quanlysinhvienbanglinq\bin\Debug\quanlysinhvienbanglinq.exe
+D:\HUTECH_UNIVERSITY\CMP170-Lập-trình-trên-môi-trường-windows\quanlysinhvienbanglinq\quanlysinhvienbanglinq\quanlysinhvienbanglinq\bin\Debug\quanlysinhvienbanglinq.pdb
+D:\HUTECH_UNIVERSITY\CMP170-Lập-trình-trên-môi-trường-windows\quanlysinhvienbanglinq\quanlysinhvienbanglinq\quanlysinhvienbanglinq\obj\Debug\quanlysinhvienbanglinq.csproj.AssemblyReference.cache
+D:\HUTECH_UNIVERSITY\CMP170-Lập-trình-trên-môi-trường-windows\quanlysinhvienbanglinq\quanlysinhvienbanglinq\quanlysinhvienbanglinq\obj\Debug\quanlysinhvienbanglinq.csproj.CoreCompileInputs.cache
+D:\HUTECH_UNIVERSITY\CMP170-Lập-trình-trên-môi-trường-windows\quanlysinhvienbanglinq\quanlysinhvienbanglinq\quanlysinhvienbanglinq\obj\Debug\quanlysinhvienbanglinq.exe
+D:\HUTECH_UNIVERSITY\CMP170-Lập-trình-trên-môi-trường-windows\quanlysinhvienbanglinq\quanlysinhvienbanglinq\quanlysinhvienbanglinq\obj\Debug\quanlysinhvienbanglinq.pdb
